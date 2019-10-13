@@ -1,0 +1,1 @@
+print('running javascript on kotlin by script js')
